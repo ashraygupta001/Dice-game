@@ -1,2 +1,1 @@
 # Dice-game
-# amigos-blog
